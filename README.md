@@ -85,9 +85,6 @@ This project provides a comprehensive approach to predicting the ICC Cricket Wor
 
 Contributions are welcome! Please feel free to fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
